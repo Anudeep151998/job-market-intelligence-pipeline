@@ -4,3 +4,5 @@ python-dotenv
 streamlit
 plotly
 schedule
+sqlalchemy
+psycopg2-binary

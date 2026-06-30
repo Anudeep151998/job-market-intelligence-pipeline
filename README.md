@@ -26,4 +26,4 @@ This project follows the **Medallion Architecture**, ensuring data quality at ev
 ## 🚦 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [YOUR_REPO_URL]    
+   git clone [https://github.com/Anudeep151998/job-market-intelligence-pipeline.git](https://github.com/Anudeep151998/job-market-intelligence-pipeline.git)   

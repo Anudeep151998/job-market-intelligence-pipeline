@@ -21,6 +21,8 @@ This project follows the **Medallion Architecture**, ensuring data quality at ev
 - **Database:** PostgreSQL (Supabase cloud instance)
 - **DevOps/QA:** Logging, Data Quality Validation, Environment Isolation, Error Handling
 
+
+
 ## 🚦 How to Run
 1. **Clone the repository:**
    ```bash
